@@ -2,16 +2,16 @@
 
 > **Mixture of Style Experts for Diverse Image Stylization**
 
-<a href="https://arxiv.org/abs/2511.20614"><img src="[https://img.shields.io/badge/arXiv-StyleExpert-red](https://www.google.com/search?q=https://img.shields.io/badge/arXiv-StyleExpert-red)" alt="arXiv"></a>
-<a href="https://hh-lg.github.io/StyleExpert-Page/"><img src="[https://img.shields.io/badge/Project%20Page-StyleExpert-blue](https://www.google.com/search?q=https://img.shields.io/badge/Project%2520Page-StyleExpert-blue)" alt="Project Page"></a>
-<a href="https://huggingface.co/HH-LG/StyleExpert"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace Model"></a>
-<a href="https://huggingface.co/datasets/HH-LG/StyleExpert"><img src="[https://img.shields.io/badge/](https://img.shields.io/badge/)🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace Dataset"></a>
+<a href="https://arxiv.org/abs/2511.20614"><img src="https://img.shields.io/badge/arXiv-StyleExpert-red" alt="HuggingFace"></a>
+<a href="https://hh-lg.github.io/StyleExpert-Page/"><img src="https://img.shields.io/badge/Project%20Page-ImageCritic-blue" alt="HuggingFace"></a>
+<a href="https://huggingface.co/HH-LG/StyleExpert"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
+<a href="https://huggingface.co/datasets/HH-LG/StyleExpert"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
 
-<img src='./figures/teaser.png' width='100%' />
+<img src='./assets/figures/teaser.png' width='100%' />
 
 ## 🖼️ Visual Results
 
-<img src='./figures/compare.png' width='100%' />
+<img src='./assets/figures/compare.png' width='100%' />
 
 ## 🔧 Dependencies and Installation
 
