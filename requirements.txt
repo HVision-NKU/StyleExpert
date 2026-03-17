@@ -1,0 +1,14 @@
+torch
+torchvision
+diffusers
+transformers
+safetensors
+einops
+numpy
+pandas
+Pillow
+accelerate
+huggingface_hub
+tokenizers
+sentencepiece
+gradio
