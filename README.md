@@ -3,7 +3,7 @@
 > **Mixture of Style Experts for Diverse Image Stylization**
 
 <a href="https://arxiv.org/abs/2511.20614"><img src="https://img.shields.io/badge/arXiv-StyleExpert-red" alt="HuggingFace"></a>
-<a href="https://hh-lg.github.io/StyleExpert-Page/"><img src="https://img.shields.io/badge/Project%20Page-ImageCritic-blue" alt="HuggingFace"></a>
+<a href="https://hh-lg.github.io/StyleExpert-Page/"><img src="https://img.shields.io/badge/Project%20Page-StyleExpert-blue" alt="HuggingFace"></a>
 <a href="https://huggingface.co/HH-LG/StyleExpert"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
 <a href="https://huggingface.co/datasets/HH-LG/StyleExpert"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
 
