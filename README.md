@@ -61,9 +61,9 @@ This will download these fixed repos into the local default paths used by infere
 
 ---
 
-## 📊 Dataset: StyleExpert-500K
+## 📊 Dataset: StyleExpert-40K
 
-We provide the **StyleExpert-500K** dataset, containing 500,000 high-quality content-style-stylized triplets. This dataset is specifically curated to balance color-centric and semantic-centric styles.
+We provide the **StyleExpert-40K** dataset, containing 40,000 high-quality content-style-stylized triplets. This dataset is specifically curated to balance color-centric and semantic-centric styles.
 
 ### Download via Script:
 
