@@ -44,7 +44,7 @@ python app.py
 You can download the base model **FLUX.1-Kontext-dev** and our **StyleExpert** adapters directly from Hugging Face:
 
 * **Base Model:** [FLUX.1-Kontext-dev](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev)
-* **StyleExpert LoRA Experts:** [Hugging Face Link](https://www.google.com/search?q=https://huggingface.co/shihao/StyleExpert)
+* **StyleExpert LoRA Experts:** [Hugging Face Link](https://huggingface.co/HH-LG/StyleExpert)
 
 Alternatively, use the provided script:
 
