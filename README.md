@@ -110,13 +110,15 @@ StyleExpert utilizes a two-stage training approach:
 If **StyleExpert** helps your research, please star the repo and cite our work:
 
 ```bibtex
-@article{zhu2026styleexpert,
-  title={Mixture of Style Experts for Diverse Image Stylization},
-  author={Zhu, Shihao and Ouyang, Ziheng and Kang, Yijia and Wang, Qilong and Zhou, Mi and Li, Bo and Cheng, Ming-Ming and Hou, Qibin},
-  journal={CVPR},
-  year={2026}
+@misc{zhu2026mixturestyleexpertsdiverse,
+      title={Mixture of Style Experts for Diverse Image Stylization}, 
+      author={Shihao Zhu and Ziheng Ouyang and Yijia Kang and Qilong Wang and Mi Zhou and Bo Li and Ming-Ming Cheng and Qibin Hou},
+      year={2026},
+      eprint={2603.16649},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.16649}, 
 }
-
 ```
 
 ## 📧 Contact
